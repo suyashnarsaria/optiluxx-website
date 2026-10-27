@@ -13,7 +13,13 @@
   force = true
 
 [[redirects]]
-  from = "/*.md"
+  from = "/README.md"
+  to = "/index.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/OLD-SITE-ROLLBACK.md"
   to = "/index.html"
   status = 404
   force = true
