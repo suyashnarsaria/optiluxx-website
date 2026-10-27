@@ -8,5 +8,6 @@
 
 [[redirects]]
   from = "/_build/*"
-  to = "/404.html"
+  to = "/index.html"
   status = 404
+  force = true
