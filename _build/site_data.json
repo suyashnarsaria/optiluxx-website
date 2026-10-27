@@ -1,0 +1,6107 @@
+{
+ "cats": [
+  {
+   "slug": "premium-cob",
+   "name": "Premium COB Downlights",
+   "side": "indoor",
+   "intro": "Deep-recess, anti-glare COB downlights with high colour fidelity. 1800K\u20134000K tunable is available in most models.",
+   "series": "",
+   "hero": "in-024"
+  },
+  {
+   "slug": "wallwashers",
+   "name": "Wallwashers & Adjustables",
+   "side": "indoor",
+   "intro": "Asymmetric wallwashers, grazers and adjustable spots that lift vertical surfaces and art.",
+   "series": "",
+   "hero": "in-069"
+  },
+  {
+   "slug": "lasers",
+   "name": "Laser Linear Lights",
+   "side": "indoor",
+   "intro": "Slim multi-head laser linears for crisp accents in corridors, joinery and ceilings.",
+   "series": "",
+   "hero": "in-082"
+  },
+  {
+   "slug": "surface-downlights",
+   "name": "COB & SMD Surface Downlights",
+   "side": "indoor",
+   "intro": "Surface-mounted cylinders and cubes for ceilings that cannot take a recess.",
+   "series": "",
+   "hero": "in-091"
+  },
+  {
+   "slug": "smd-conceal",
+   "name": "SMD Conceal Downlights",
+   "side": "indoor",
+   "intro": "Slim concealed panels and downlights for soft, wide ambient light.",
+   "series": "",
+   "hero": "in-105"
+  },
+  {
+   "slug": "indoor-cob",
+   "name": "Indoor COB Series",
+   "side": "indoor",
+   "intro": "Versatile recessed COB spots for residential and hospitality interiors.",
+   "series": "",
+   "hero": "in-110"
+  },
+  {
+   "slug": "commercial-cob",
+   "name": "Commercial COB Series",
+   "side": "indoor",
+   "intro": "High-output COB downlights and gimbals for retail, showrooms and large volumes.",
+   "series": "",
+   "hero": "in-119"
+  },
+  {
+   "slug": "mini-cob",
+   "name": "Mini COBs & Footlights",
+   "side": "indoor",
+   "intro": "Miniature COBs and step lights for starry ceilings, niches and stair risers.",
+   "series": "",
+   "hero": "in-125"
+  },
+  {
+   "slug": "track-lights",
+   "name": "Track Lights",
+   "side": "indoor",
+   "intro": "Classic track spotlights for flexible accent lighting.",
+   "series": "",
+   "hero": "in-129"
+  },
+  {
+   "slug": "magnetic-track",
+   "name": "Magnetic Track Systems",
+   "side": "indoor",
+   "intro": "48V magnetic track in 25mm, 10mm and 5mm profiles, black, white and round. Single colour, CCT tunable, Bluetooth and DALI DT6/DT8.",
+   "series": "",
+   "hero": "in-133"
+  },
+  {
+   "slug": "sky-line",
+   "name": "Sky Line",
+   "side": "indoor",
+   "intro": "Suspended line-of-light belt system with middle supports and end caps.",
+   "series": "",
+   "hero": "in-155"
+  },
+  {
+   "slug": "dorado",
+   "name": "Dorado Series",
+   "side": "indoor",
+   "intro": "Brass-finish suspended track chandeliers in round, straight and rectangle shapes.",
+   "series": "",
+   "hero": "in-157"
+  },
+  {
+   "slug": "led-strips",
+   "name": "LED Strips",
+   "side": "indoor",
+   "intro": "Premium strips with true colour (80/90 CRI), copper PCB and Bridgelux LEDs. IP20, IP65 and IP68.",
+   "series": "",
+   "hero": "in-161"
+  },
+  {
+   "slug": "curtain-grazer",
+   "name": "Curtain Grazer",
+   "side": "indoor",
+   "intro": "Flexible IP65 grazer for curtains and drapes.",
+   "series": "",
+   "hero": "in-172"
+  },
+  {
+   "slug": "neon",
+   "name": "Neon Lights",
+   "side": "indoor",
+   "intro": "Silicone neon in 6\u00d712 to 20\u00d720mm profiles, plus empty silicone housings.",
+   "series": "",
+   "hero": "in-174"
+  },
+  {
+   "slug": "drivers",
+   "name": "SMPS Drivers & Controllers",
+   "side": "indoor",
+   "intro": "12V/24V drivers, phase-cut dimmable SMPS and CCT/RGB controllers.",
+   "series": "",
+   "hero": null
+  },
+  {
+   "slug": "profiles",
+   "name": "Customised Profiles & Fittings",
+   "side": "indoor",
+   "intro": "Hanging and concealed linear profiles, geometric fittings and acoustic lights, made to your layout.",
+   "series": "",
+   "hero": "in-194"
+  },
+  {
+   "slug": "smart-controls",
+   "name": "Smart Control Systems",
+   "side": "indoor",
+   "intro": "One-touch scenes and app, remote, touch-panel and switch control for colour-changing and dimmable lighting.",
+   "series": "",
+   "hero": "in-020"
+  },
+  {
+   "slug": "sera-wall",
+   "name": "SERA \u00b7 Decorative Wall Luminaires",
+   "side": "outdoor",
+   "intro": "Decorative wall luminaires for fa\u00e7ades, entrances and garden walls.",
+   "series": "SERA",
+   "hero": "out-006"
+  },
+  {
+   "slug": "varco-up-down",
+   "name": "VARCO \u00b7 Up-Down & Bulkhead",
+   "side": "outdoor",
+   "intro": "Up-down lights and bulkheads for boundaries, gates and entrances. IP65 rated for daily duty.",
+   "series": "VARCO",
+   "hero": "out-023"
+  },
+  {
+   "slug": "orto-bollards",
+   "name": "ORTO \u00b7 Bollards",
+   "side": "outdoor",
+   "intro": "Bollards and post lights that guide paths, lawns and approaches.",
+   "series": "ORTO",
+   "hero": "out-040"
+  },
+  {
+   "slug": "orto-spikes",
+   "name": "ORTO \u00b7 Spike Luminaires",
+   "side": "outdoor",
+   "intro": "Adjustable spike lights for trees, planting and landscape features.",
+   "series": "ORTO",
+   "hero": "out-054"
+  },
+  {
+   "slug": "acuta-facade",
+   "name": "ACUTA \u00b7 Architectural Fa\u00e7ade",
+   "side": "outdoor",
+   "intro": "Projectors, wallwashers and linears to aim, graze and wash light across fa\u00e7ades and columns.",
+   "series": "ACUTA",
+   "hero": "out-061"
+  },
+  {
+   "slug": "passo-footlights",
+   "name": "PASSO \u00b7 Footlights",
+   "side": "outdoor",
+   "intro": "Surface and concealed step lights for stairs, walkways and edges.",
+   "series": "PASSO",
+   "hero": "out-083"
+  },
+  {
+   "slug": "passo-inground",
+   "name": "PASSO \u00b7 Inground",
+   "side": "outdoor",
+   "intro": "Drive-over inground uplights for walls, trees and paths.",
+   "series": "PASSO",
+   "hero": "out-088"
+  },
+  {
+   "slug": "acqua-pool",
+   "name": "ACQUA \u00b7 Swimming Pool",
+   "side": "outdoor",
+   "intro": "IP68 pool, fountain and water-feature luminaires, fully submersible.",
+   "series": "ACQUA",
+   "hero": "out-094"
+  },
+  {
+   "slug": "urbe-street",
+   "name": "URBE \u00b7 Post-Top & Street",
+   "side": "outdoor",
+   "intro": "Post-top, pole, street and high-bay luminaires for campuses, parks and townships.",
+   "series": "URBE",
+   "hero": "out-102"
+  }
+ ],
+ "products": [
+  {
+   "slug": "zenium",
+   "name": "Zenium",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-027",
+    "in-028"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "16W"
+    ],
+    "beam": [
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 27
+  },
+  {
+   "slug": "zenium-trimless",
+   "name": "Zenium Trimless",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-029"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "16W"
+    ],
+    "beam": [
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Trimless",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 29
+  },
+  {
+   "slug": "6w-slide",
+   "name": "6W Slide",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-030"
+   ],
+   "specs": {
+    "watt": [
+     "6W"
+    ],
+    "beam": [
+     "30\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 30
+  },
+  {
+   "slug": "arco",
+   "name": "Arco",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-031"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 31
+  },
+  {
+   "slug": "arco-trimless",
+   "name": "Arco Trimless",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-032"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Trimless"
+    ]
+   },
+   "desc": "",
+   "page": 32
+  },
+  {
+   "slug": "muse",
+   "name": "Muse",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-033"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "9W",
+     "13W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Deep recess",
+     "Anti-glare"
+    ]
+   },
+   "desc": "",
+   "page": 33
+  },
+  {
+   "slug": "lume",
+   "name": "Lume",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-034"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "11W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "36\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 34
+  },
+  {
+   "slug": "chrono",
+   "name": "Chrono",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-035"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "10W",
+     "12W",
+     "15W"
+    ],
+    "beam": [
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 35
+  },
+  {
+   "slug": "merge",
+   "name": "Merge",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-036",
+    "in-037"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 36
+  },
+  {
+   "slug": "mr-16",
+   "name": "MR-16",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-038"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 38
+  },
+  {
+   "slug": "halo",
+   "name": "HALO",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-039"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 39
+  },
+  {
+   "slug": "aether",
+   "name": "Aether",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-040"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 40
+  },
+  {
+   "slug": "deep-dark",
+   "name": "Deep Dark",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-041"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "16W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 41
+  },
+  {
+   "slug": "luster-cob",
+   "name": "Luster COB",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-042"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Honeycomb louver"
+    ]
+   },
+   "desc": "",
+   "page": 42
+  },
+  {
+   "slug": "staller-ip20-ip54-ip65",
+   "name": "Staller",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-043",
+    "in-044",
+    "in-045"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W",
+     "24W",
+     "30W",
+     "36W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20",
+     "IP54",
+     "IP65"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 43
+  },
+  {
+   "slug": "minimax-cob",
+   "name": "Minimax COB",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-046"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "11W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 46
+  },
+  {
+   "slug": "rivo-mirror-light-vanity-light",
+   "name": "Rivo (Mirror Light / Vanity Light)",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-047",
+    "in-048"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 47
+  },
+  {
+   "slug": "the-invisible",
+   "name": "The Invisible",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-049"
+   ],
+   "specs": {
+    "watt": [
+     "7.5W",
+     "11W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+"
+    ]
+   },
+   "desc": "",
+   "page": 49
+  },
+  {
+   "slug": "the-invisible-trimless",
+   "name": "The Invisible Trimless",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-050"
+   ],
+   "specs": {
+    "watt": [
+     "7.5W",
+     "11W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "Trimless"
+    ]
+   },
+   "desc": "",
+   "page": 50
+  },
+  {
+   "slug": "the-invisible-02",
+   "name": "The Invisible 02",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-051"
+   ],
+   "specs": {
+    "watt": [
+     "10W",
+     "10W \u00d7 2",
+     "10W \u00d7 3",
+     "10W \u00d7 4",
+     "10W \u00d7 5"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Trimless"
+    ]
+   },
+   "desc": "Compatible with CCT tunable, DALI and home automation.",
+   "page": 51
+  },
+  {
+   "slug": "axor",
+   "name": "Axor",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-052"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "10W"
+    ],
+    "beam": [
+     "45\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 52
+  },
+  {
+   "slug": "pinnacle-cob-hotel-series",
+   "name": "Pinnacle COB (Hotel Series)",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-053"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W",
+     "24W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Honeycomb louver",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 53
+  },
+  {
+   "slug": "pinnacle-cob-trimless",
+   "name": "Pinnacle COB Trimless",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-054"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W",
+     "24W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Trimless",
+     "Honeycomb louver",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 54
+  },
+  {
+   "slug": "pinnacle-cob-wallwasher-pinhole-hotel-series",
+   "name": "Pinnacle COB Wallwasher & Pinhole (Hotel Series)",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-055"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "15W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Honeycomb louver",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 55
+  },
+  {
+   "slug": "pinnacle-square",
+   "name": "Pinnacle Square",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-056"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W",
+     "24W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Honeycomb louver",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 56
+  },
+  {
+   "slug": "pinnacle-twin",
+   "name": "Pinnacle Twin",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-057"
+   ],
+   "specs": {
+    "watt": [
+     "7W \u00d7 2",
+     "12W \u00d7 2",
+     "15W \u00d7 2"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Honeycomb louver",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 57
+  },
+  {
+   "slug": "pinnacle-twin-trimless-hotel-series",
+   "name": "Pinnacle Twin Trimless (Hotel Series)",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-058"
+   ],
+   "specs": {
+    "watt": [
+     "12W \u00d7 2",
+     "18W \u00d7 2",
+     "24W \u00d7 2"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "38\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Trimless",
+     "Honeycomb louver",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 58
+  },
+  {
+   "slug": "noctis",
+   "name": "Noctis",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-059"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "10W",
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "8\u00b0",
+     "15\u00b0",
+     "24\u00b0",
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 59
+  },
+  {
+   "slug": "unique-cob",
+   "name": "Unique COB",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-060"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP54"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 60
+  },
+  {
+   "slug": "super-unique-cob",
+   "name": "Super Unique COB",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-061"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP54"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 61
+  },
+  {
+   "slug": "crown-cob",
+   "name": "Crown COB",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-062"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 62
+  },
+  {
+   "slug": "alpha",
+   "name": "Alpha",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-063"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "15W",
+     "18W",
+     "24W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 63
+  },
+  {
+   "slug": "twin-alpha",
+   "name": "Twin Alpha",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-064"
+   ],
+   "specs": {
+    "watt": [
+     "12W \u00d7 2",
+     "15W \u00d7 2",
+     "18W \u00d7 2",
+     "24W \u00d7 2"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 64
+  },
+  {
+   "slug": "carlo-cob",
+   "name": "Carlo COB",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-065"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 65
+  },
+  {
+   "slug": "magic-pro",
+   "name": "Magic Pro",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-066",
+    "in-067"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable",
+     "Trimless",
+     "Low UGR"
+    ]
+   },
+   "desc": "",
+   "page": 66
+  },
+  {
+   "slug": "mini-scalp",
+   "name": "Mini Scalp",
+   "cat": "premium-cob",
+   "side": "indoor",
+   "img": [
+    "in-068"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 68
+  },
+  {
+   "slug": "illume-01",
+   "name": "Illume 01",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-070"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "15W",
+     "20W",
+     "24W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 70
+  },
+  {
+   "slug": "illume-02",
+   "name": "Illume 02",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-071"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 71
+  },
+  {
+   "slug": "lyro",
+   "name": "Lyro",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-072"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 72
+  },
+  {
+   "slug": "wallwasher-grazer",
+   "name": "Wallwasher Grazer",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-073",
+    "in-074"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "20W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 73
+  },
+  {
+   "slug": "rio",
+   "name": "Rio",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-075"
+   ],
+   "specs": {
+    "watt": [
+     "15W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "40\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 75
+  },
+  {
+   "slug": "cue",
+   "name": "Cue",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-076"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "7W",
+     "12W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 76
+  },
+  {
+   "slug": "pony",
+   "name": "Pony",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-077"
+   ],
+   "specs": {
+    "watt": [
+     "8W"
+    ],
+    "beam": [
+     "24\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 77
+  },
+  {
+   "slug": "zoom",
+   "name": "Zoom",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-078"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "20W",
+     "30W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 78
+  },
+  {
+   "slug": "wallwasher-laser-moveable",
+   "name": "Wallwasher Laser (Moveable)",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-079"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 79
+  },
+  {
+   "slug": "shine-pullout",
+   "name": "Shine Pullout",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-080"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 80
+  },
+  {
+   "slug": "shine-pullout-twin",
+   "name": "Shine Pullout Twin",
+   "cat": "wallwashers",
+   "side": "indoor",
+   "img": [
+    "in-081"
+   ],
+   "specs": {
+    "watt": [
+     "7W \u00d7 2",
+     "12W \u00d7 2"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 81
+  },
+  {
+   "slug": "nox-laser",
+   "name": "Nox Laser",
+   "cat": "lasers",
+   "side": "indoor",
+   "img": [
+    "in-083"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 83
+  },
+  {
+   "slug": "nox-laser-trimless",
+   "name": "Nox Laser Trimless",
+   "cat": "lasers",
+   "side": "indoor",
+   "img": [
+    "in-084"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable",
+     "Trimless"
+    ]
+   },
+   "desc": "",
+   "page": 84
+  },
+  {
+   "slug": "zypher-laser",
+   "name": "Zypher Laser",
+   "cat": "lasers",
+   "side": "indoor",
+   "img": [
+    "in-085"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 85
+  },
+  {
+   "slug": "laser-cob",
+   "name": "Laser COB",
+   "cat": "lasers",
+   "side": "indoor",
+   "img": [
+    "in-086"
+   ],
+   "specs": {
+    "watt": [
+     "2W",
+     "4W",
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 86
+  },
+  {
+   "slug": "super-slim-laser",
+   "name": "Super Slim laser",
+   "cat": "lasers",
+   "side": "indoor",
+   "img": [
+    "in-087"
+   ],
+   "specs": {
+    "watt": [
+     "5W",
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 87
+  },
+  {
+   "slug": "round-laser",
+   "name": "Round Laser",
+   "cat": "lasers",
+   "side": "indoor",
+   "img": [
+    "in-088"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "30W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 88
+  },
+  {
+   "slug": "plus-laser",
+   "name": "Plus Laser",
+   "cat": "lasers",
+   "side": "indoor",
+   "img": [
+    "in-089",
+    "in-090"
+   ],
+   "specs": {
+    "watt": [
+     "4W",
+     "12W",
+     "18W",
+     "20W",
+     "36W",
+     "40W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 89
+  },
+  {
+   "slug": "hint",
+   "name": "Hint",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-092"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 92
+  },
+  {
+   "slug": "joe",
+   "name": "Joe",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-093",
+    "in-094"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "Honeycomb louver"
+    ]
+   },
+   "desc": "",
+   "page": 93
+  },
+  {
+   "slug": "cubix",
+   "name": "Cubix",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-095"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0",
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 95
+  },
+  {
+   "slug": "cubix-twin",
+   "name": "Cubix Twin",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-096"
+   ],
+   "specs": {
+    "watt": [
+     "12W \u00d7 2",
+     "18W \u00d7 2"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0",
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 96
+  },
+  {
+   "slug": "cubix-triple",
+   "name": "Cubix Triple",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-097"
+   ],
+   "specs": {
+    "watt": [
+     "12W \u00d7 3",
+     "18W \u00d7 3"
+    ],
+    "beam": [
+     "15\u00b0",
+     "36\u00b0",
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 97
+  },
+  {
+   "slug": "dusk",
+   "name": "Dusk",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-098"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "14W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 98
+  },
+  {
+   "slug": "luster-surface",
+   "name": "Luster Surface",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-099"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "55\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "Honeycomb louver"
+    ]
+   },
+   "desc": "",
+   "page": 99
+  },
+  {
+   "slug": "atom-cylinder",
+   "name": "Atom Cylinder",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-100"
+   ],
+   "specs": {
+    "watt": [
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 100
+  },
+  {
+   "slug": "moon-surface",
+   "name": "Moon Surface",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-101"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W",
+     "24W",
+     "30W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 101
+  },
+  {
+   "slug": "pro-cylinder",
+   "name": "Pro Cylinder",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-102",
+    "in-103"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W",
+     "24W",
+     "30W",
+     "40W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 102
+  },
+  {
+   "slug": "optra",
+   "name": "Optra",
+   "cat": "surface-downlights",
+   "side": "indoor",
+   "img": [
+    "in-104"
+   ],
+   "specs": {
+    "watt": [
+     "8W",
+     "15W",
+     "22W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 104
+  },
+  {
+   "slug": "disc",
+   "name": "Disc",
+   "cat": "smd-conceal",
+   "side": "indoor",
+   "img": [
+    "in-106"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "90\u00b0"
+    ],
+    "ip": [
+     "IP54"
+    ],
+    "cct": [],
+    "features": [
+     "CRI 90+",
+     "CRI 95+",
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 106
+  },
+  {
+   "slug": "flow",
+   "name": "Flow",
+   "cat": "smd-conceal",
+   "side": "indoor",
+   "img": [
+    "in-107"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 107
+  },
+  {
+   "slug": "loop-downlight",
+   "name": "Loop Downlight",
+   "cat": "smd-conceal",
+   "side": "indoor",
+   "img": [
+    "in-108"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 108
+  },
+  {
+   "slug": "rays-downlight",
+   "name": "Rays Downlight",
+   "cat": "smd-conceal",
+   "side": "indoor",
+   "img": [
+    "in-109"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W",
+     "24W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 109
+  },
+  {
+   "slug": "curve-bush",
+   "name": "Curve Bush",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-111"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 111
+  },
+  {
+   "slug": "short",
+   "name": "Short",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-112"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 112
+  },
+  {
+   "slug": "glaze-twin",
+   "name": "Glaze Twin",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-113"
+   ],
+   "specs": {
+    "watt": [
+     "12W \u00d7 2",
+     "18W \u00d7 2"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 113
+  },
+  {
+   "slug": "magma",
+   "name": "Magma",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-114"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 114
+  },
+  {
+   "slug": "amaze",
+   "name": "Amaze",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-115"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W",
+     "24W",
+     "30W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 115
+  },
+  {
+   "slug": "amaze-sq-twin",
+   "name": "Amaze SQ Twin",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-116"
+   ],
+   "specs": {
+    "watt": [
+     "12W \u00d7 2"
+    ],
+    "beam": [
+     "24\u00b0",
+     "36\u00b0",
+     "50\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 116
+  },
+  {
+   "slug": "sky-cob",
+   "name": "Sky COB",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-117"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "90\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 117
+  },
+  {
+   "slug": "curve",
+   "name": "Curve",
+   "cat": "indoor-cob",
+   "side": "indoor",
+   "img": [
+    "in-118"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "18W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 118
+  },
+  {
+   "slug": "stun",
+   "name": "Stun",
+   "cat": "commercial-cob",
+   "side": "indoor",
+   "img": [
+    "in-120"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "30W",
+     "40W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "38\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 120
+  },
+  {
+   "slug": "stun-moveable",
+   "name": "Stun Moveable",
+   "cat": "commercial-cob",
+   "side": "indoor",
+   "img": [
+    "in-121"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "30W",
+     "40W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "38\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 121
+  },
+  {
+   "slug": "block",
+   "name": "Block",
+   "cat": "commercial-cob",
+   "side": "indoor",
+   "img": [
+    "in-122",
+    "in-123"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W",
+     "18W",
+     "24W",
+     "30W",
+     "40W",
+     "50W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 122
+  },
+  {
+   "slug": "gimbal",
+   "name": "Gimbal",
+   "cat": "commercial-cob",
+   "side": "indoor",
+   "img": [
+    "in-124"
+   ],
+   "specs": {
+    "watt": [
+     "30W",
+     "30W \u00d7 2",
+     "30W \u00d7 3"
+    ],
+    "beam": [
+     "24\u00b0",
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 124
+  },
+  {
+   "slug": "mini-cob",
+   "name": "Mini COB",
+   "cat": "mini-cob",
+   "side": "indoor",
+   "img": [
+    "in-126",
+    "in-127"
+   ],
+   "specs": {
+    "watt": [
+     "1W",
+     "2W",
+     "2.5W",
+     "3W"
+    ],
+    "beam": [
+     "24\u00b0",
+     "30\u00b0",
+     "36\u00b0",
+     "90\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 126
+  },
+  {
+   "slug": "footlight",
+   "name": "Footlight",
+   "cat": "mini-cob",
+   "side": "indoor",
+   "img": [
+    "in-128"
+   ],
+   "specs": {
+    "watt": [
+     "3W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 128
+  },
+  {
+   "slug": "axtla-track-light",
+   "name": "AXTLA Track Light",
+   "cat": "track-lights",
+   "side": "indoor",
+   "img": [
+    "in-130"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "30W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 130
+  },
+  {
+   "slug": "dazzle-tracklight",
+   "name": "Dazzle TrackLight",
+   "cat": "track-lights",
+   "side": "indoor",
+   "img": [
+    "in-131"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "15W",
+     "20W",
+     "24W",
+     "30W",
+     "40W",
+     "50W"
+    ],
+    "beam": [
+     "18\u00b0",
+     "24\u00b0",
+     "36\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable"
+    ]
+   },
+   "desc": "Available in CCT/DIM, DALI and Zigbee versions.",
+   "page": 131
+  },
+  {
+   "slug": "magnetic-track-25mm-black",
+   "name": "Magnetic Track 25mm \u2013 Black",
+   "cat": "magnetic-track",
+   "side": "indoor",
+   "img": [
+    "in-136",
+    "in-137",
+    "in-138",
+    "in-139",
+    "in-134",
+    "in-135"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "7W",
+     "12W",
+     "15W",
+     "18W",
+     "30W",
+     "45W",
+     "100W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable",
+     "Deep recess",
+     "Bluetooth",
+     "48V system"
+    ]
+   },
+   "desc": "48V magnetic track system with spotlights, linears and grille modules. Single colour, CCT tunable, Bluetooth and DALI DT6/DT8 options.",
+   "page": 136
+  },
+  {
+   "slug": "magnetic-track-25mm-white",
+   "name": "Magnetic Track 25mm \u2013 White",
+   "cat": "magnetic-track",
+   "side": "indoor",
+   "img": [
+    "in-140",
+    "in-141",
+    "in-142"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "7W",
+     "12W",
+     "15W",
+     "18W",
+     "30W",
+     "45W",
+     "100W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable",
+     "Deep recess",
+     "Bluetooth",
+     "48V system"
+    ]
+   },
+   "desc": "48V magnetic track system with spotlights, linears and grille modules. Single colour, CCT tunable, Bluetooth and DALI DT6/DT8 options.",
+   "page": 140
+  },
+  {
+   "slug": "round-magnetic-track-25mm",
+   "name": "Round Magnetic Track 25mm",
+   "cat": "magnetic-track",
+   "side": "indoor",
+   "img": [
+    "in-144",
+    "in-145",
+    "in-143"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "10W",
+     "12W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable",
+     "48V system"
+    ]
+   },
+   "desc": "48V magnetic track system with spotlights, linears and grille modules. Single colour, CCT tunable, Bluetooth and DALI DT6/DT8 options.",
+   "page": 144
+  },
+  {
+   "slug": "magnetic-track-10mm-black",
+   "name": "Magnetic Track 10mm \u2013 Black",
+   "cat": "magnetic-track",
+   "side": "indoor",
+   "img": [
+    "in-146",
+    "in-147",
+    "in-148"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "10W",
+     "12W",
+     "20W",
+     "100W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "Deep recess",
+     "48V system"
+    ]
+   },
+   "desc": "48V magnetic track system with spotlights, linears and grille modules. Single colour, CCT tunable, Bluetooth and DALI DT6/DT8 options.",
+   "page": 146
+  },
+  {
+   "slug": "magnetic-track-10mm-white",
+   "name": "Magnetic Track 10mm \u2013 White",
+   "cat": "magnetic-track",
+   "side": "indoor",
+   "img": [
+    "in-149",
+    "in-150",
+    "in-151"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "10W",
+     "12W",
+     "15W",
+     "20W",
+     "30W",
+     "100W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "DALI dimmable",
+     "CCT tunable",
+     "Deep recess",
+     "Bluetooth",
+     "48V system"
+    ]
+   },
+   "desc": "48V magnetic track system with spotlights, linears and grille modules. Single colour, CCT tunable, Bluetooth and DALI DT6/DT8 options.",
+   "page": 149
+  },
+  {
+   "slug": "surface-magnetic-track-5mm",
+   "name": "Surface Magnetic Track 5mm",
+   "cat": "magnetic-track",
+   "side": "indoor",
+   "img": [
+    "in-152",
+    "in-153",
+    "in-154"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "9W",
+     "10W",
+     "12W",
+     "18W",
+     "20W",
+     "30W",
+     "100W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "48V system"
+    ]
+   },
+   "desc": "48V magnetic track system with spotlights, linears and grille modules. Single colour, CCT tunable, Bluetooth and DALI DT6/DT8 options.",
+   "page": 152
+  },
+  {
+   "slug": "sky-line",
+   "name": "Sky Line",
+   "cat": "sky-line",
+   "side": "indoor",
+   "img": [
+    "in-155",
+    "in-156"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "A continuous line of light suspended on a belt, with middle supports for runs longer than 5 metres and matching end caps.",
+   "page": 155
+  },
+  {
+   "slug": "dorado-series",
+   "name": "Dorado Series",
+   "cat": "dorado",
+   "side": "indoor",
+   "img": [
+    "in-158",
+    "in-159",
+    "in-160",
+    "in-157"
+   ],
+   "specs": {
+    "watt": [
+     "5W",
+     "6W",
+     "10W",
+     "15W",
+     "60W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "Suspended track chandeliers in round, straight and rectangle shapes, fitted with laser, wallwasher and pendant modules.",
+   "page": 158
+  },
+  {
+   "slug": "premium-led-strips",
+   "name": "Premium LED Strips",
+   "cat": "led-strips",
+   "side": "indoor",
+   "img": [
+    "in-162"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "True colour 80/90 CRI, copper PCB, original Bridgelux LEDs. Tested for edging, tape adhesion and twist-roll.",
+   "page": 162
+  },
+  {
+   "slug": "ip20-led-strips",
+   "name": "IP20 LED Strips",
+   "cat": "led-strips",
+   "side": "indoor",
+   "img": [
+    "in-163",
+    "in-164"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W",
+     "18W",
+     "19W",
+     "24W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 163
+  },
+  {
+   "slug": "ip20-rgb-led-strips",
+   "name": "IP20 RGB LED Strips",
+   "cat": "led-strips",
+   "side": "indoor",
+   "img": [
+    "in-165"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 165
+  },
+  {
+   "slug": "ip65-led-strips",
+   "name": "IP65 LED Strips",
+   "cat": "led-strips",
+   "side": "indoor",
+   "img": [
+    "in-166",
+    "in-167"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W",
+     "18W",
+     "19W",
+     "24W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 166
+  },
+  {
+   "slug": "ip65-rgb-led-strips",
+   "name": "IP65 RGB LED Strips",
+   "cat": "led-strips",
+   "side": "indoor",
+   "img": [
+    "in-168"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 168
+  },
+  {
+   "slug": "24v-tunable-led-strip",
+   "name": "24V Tunable LED Strip",
+   "cat": "led-strips",
+   "side": "indoor",
+   "img": [
+    "in-169"
+   ],
+   "specs": {
+    "watt": [
+     "18W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [
+     "1800K",
+     "4000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 169
+  },
+  {
+   "slug": "ip68-facade-led-strip",
+   "name": "IP68 Facade LED Strip",
+   "cat": "led-strips",
+   "side": "indoor",
+   "img": [
+    "in-170",
+    "in-171"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 170
+  },
+  {
+   "slug": "curtain-grazer-flexible",
+   "name": "Curtain Grazer (Flexible)",
+   "cat": "curtain-grazer",
+   "side": "indoor",
+   "img": [
+    "in-173"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 173
+  },
+  {
+   "slug": "neon-light",
+   "name": "Neon Light",
+   "cat": "neon",
+   "side": "indoor",
+   "img": [
+    "in-175"
+   ],
+   "specs": {
+    "watt": [
+     "10W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 175
+  },
+  {
+   "slug": "empty-silicon-housing",
+   "name": "Empty Silicon Housing",
+   "cat": "neon",
+   "side": "indoor",
+   "img": [
+    "in-176"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 176
+  },
+  {
+   "slug": "24v-smps-driver",
+   "name": "24V SMPS Driver",
+   "cat": "drivers",
+   "side": "indoor",
+   "img": [
+    "in-177"
+   ],
+   "specs": {
+    "watt": [
+     "60W",
+     "100W",
+     "150W",
+     "200W",
+     "300W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 177
+  },
+  {
+   "slug": "12v-smps-driver-controllers",
+   "name": "12V SMPS Driver & Controllers",
+   "cat": "drivers",
+   "side": "indoor",
+   "img": [
+    "in-178"
+   ],
+   "specs": {
+    "watt": [
+     "24W",
+     "30W",
+     "36W",
+     "42W",
+     "48W",
+     "60W",
+     "66W",
+     "80W",
+     "100W",
+     "120W",
+     "150W",
+     "180W",
+     "240W",
+     "360W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [],
+    "features": [
+     "TRIAC dimmable"
+    ]
+   },
+   "desc": "",
+   "page": 178
+  },
+  {
+   "slug": "24v-ip67-smps-driver",
+   "name": "24V IP67 SMPS Driver",
+   "cat": "drivers",
+   "side": "indoor",
+   "img": [
+    "in-179"
+   ],
+   "specs": {
+    "watt": [
+     "60W",
+     "120W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CCT tunable",
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 179
+  },
+  {
+   "slug": "roundo",
+   "name": "Roundo",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-180"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 180
+  },
+  {
+   "slug": "hanging-linear-profiles-35-75-35-70",
+   "name": "Hanging Linear Profiles 35\u00d775 / 35\u00d770",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-181"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 181
+  },
+  {
+   "slug": "hanging-linear-deep-profiles-50-70",
+   "name": "Hanging Linear & Deep Profiles 50\u00d770",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-182"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 182
+  },
+  {
+   "slug": "conceal-profile-35mm-hanging-75-90",
+   "name": "Conceal Profile 35mm & Hanging 75\u00d790",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-183"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 183
+  },
+  {
+   "slug": "hanging-linear-100-35-145-70",
+   "name": "Hanging Linear 100\u00d735 & 145\u00d770",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-184"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 184
+  },
+  {
+   "slug": "conceal-linear-90-35-67-35",
+   "name": "Conceal Linear 90\u00d735 & 67\u00d735",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-185"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 185
+  },
+  {
+   "slug": "conceal-linear-115-35-135-70",
+   "name": "Conceal Linear 115\u00d735 & 135\u00d770",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-186"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": [
+     "CCT tunable"
+    ]
+   },
+   "desc": "",
+   "page": 186
+  },
+  {
+   "slug": "donut-fitting",
+   "name": "Donut Fitting",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-187"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "30W",
+     "40W",
+     "48W",
+     "60W",
+     "100W",
+     "120W",
+     "150W",
+     "180W",
+     "200W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 187
+  },
+  {
+   "slug": "drum-fitting",
+   "name": "Drum Fitting",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-188"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "30W",
+     "40W",
+     "48W",
+     "60W",
+     "100W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 188
+  },
+  {
+   "slug": "hexagon-fitting",
+   "name": "Hexagon Fitting",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-189",
+    "in-190"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "30W",
+     "40W",
+     "60W",
+     "100W"
+    ],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 189
+  },
+  {
+   "slug": "rectangle-fitting",
+   "name": "Rectangle Fitting",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-191"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 191
+  },
+  {
+   "slug": "curve-rectangle-fitting",
+   "name": "Curve Rectangle Fitting",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-192",
+    "in-193"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 192
+  },
+  {
+   "slug": "curve-amoeba-designs",
+   "name": "Curve & Amoeba Designs",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-194"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 194
+  },
+  {
+   "slug": "acoustic-lights",
+   "name": "Acoustic Lights",
+   "cat": "profiles",
+   "side": "indoor",
+   "img": [
+    "in-195"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "",
+   "page": 195
+  },
+  {
+   "slug": "smart-control-system",
+   "name": "Smart Control System",
+   "cat": "smart-controls",
+   "side": "indoor",
+   "img": [
+    "in-022",
+    "in-021",
+    "in-020"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "Colour-changing and dimmable lighting controlled by RF remote, mobile app (Smart Life + RF), touch panel or switch panel. Wireless scene control with 4 scenes and 3 light groups, no extra wiring. A gateway is recommended when more than 30 COB devices are connected.",
+   "page": 22
+  },
+  {
+   "slug": "solis-wall-lamp",
+   "name": "Solis Wall Lamp",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-007"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [
+     "90\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP66"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A sleek linear wall lamp with warm 3000K downward illumination for walls, pathways, and fa\u00e7ades. IP66-rated design with 120\u00b0 beam spread, ideal for outdoor architectural ambience.",
+   "page": 7
+  },
+  {
+   "slug": "strix",
+   "name": "Strix",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-008",
+    "out-009"
+   ],
+   "specs": {
+    "watt": [
+     "2W",
+     "3W",
+     "4W"
+    ],
+    "beam": [
+     "8\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "Compact architectural wall light with a precise 8\u00b0 beam for creative lighting effects. Available in 2W, 3W & 4W to create multiple beam patterns and combinations.",
+   "page": 8
+  },
+  {
+   "slug": "12w-ridge",
+   "name": "12W Ridge",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-010"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A classic outdoor wall light that creates a warm, welcoming glow for entrances, balconies, pathways and",
+   "page": 10
+  },
+  {
+   "slug": "e27-heritage",
+   "name": "E27 Heritage",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-011"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A heritage-inspired E27 outdoor wall light designed to create a warm, welcoming ambience. Ideal for entrances, balconies, pathways, villas, and classic architectural fa\u00e7ades.",
+   "page": 11
+  },
+  {
+   "slug": "align",
+   "name": "Align",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-012"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A contemporary outdoor wall light with a refined rectangular frame and soft diffused glow. Ideal for entrances, balconies, pathways, and modern architectural fa\u00e7ades.",
+   "page": 12
+  },
+  {
+   "slug": "hex",
+   "name": "Hex",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-013"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A sleek horizontal outdoor wall light with a soft diffused glow and a clean modern profile. Ideal for entrances, balconies, pathways, compound walls, and contemporary fa\u00e7ades.",
+   "page": 13
+  },
+  {
+   "slug": "vesso",
+   "name": "Vesso",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-014"
+   ],
+   "specs": {
+    "watt": [
+     "16W",
+     "25W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "Anti-glare"
+    ]
+   },
+   "desc": "A slim vertical wall luminaire with a prismatic anti-glare diffuser, designed to deliver soft, uniform illumination for fa\u00e7ades, entrances, premium outdoor spaces and compound spaces.",
+   "page": 14
+  },
+  {
+   "slug": "fluxo",
+   "name": "Fluxo",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-015",
+    "out-016"
+   ],
+   "specs": {
+    "watt": [
+     "18W",
+     "30W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "Anti-glare"
+    ]
+   },
+   "desc": "A tiltable architectural wall luminaire with a prismatic anti-glare diffuser, designed to direct controlled illumination across fa\u00e7ades, landscape walls, and exterior surfaces.",
+   "page": 15
+  },
+  {
+   "slug": "10w-dune-7w-oak",
+   "name": "10W Dune / 7W Oak",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-017"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "10W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 17
+  },
+  {
+   "slug": "18w-horizon",
+   "name": "18W Horizon",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-018"
+   ],
+   "specs": {
+    "watt": [
+     "18W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A refined architectural light that creates a seamless wash, enhancing pathways and surfaces with depth,",
+   "page": 18
+  },
+  {
+   "slug": "6w-ignite",
+   "name": "6W Ignite",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-019"
+   ],
+   "specs": {
+    "watt": [
+     "6W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A sculpted architectural wall luminaire with selectable beam configurations, designed to create precise vertical and up-down light patterns across fa\u00e7ades, entrances, and feature walls.",
+   "page": 19
+  },
+  {
+   "slug": "scout",
+   "name": "Scout",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-020"
+   ],
+   "specs": {
+    "watt": [
+     "4W",
+     "6W",
+     "8W"
+    ],
+    "beam": [
+     "12\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A refined compact wall luminaire engineered with high-precision optics to create crisp, narrow 12\u00b0 up-down beams for fa\u00e7ades, columns, and architectural feature walls.",
+   "page": 20
+  },
+  {
+   "slug": "12w-glair",
+   "name": "12W Glair",
+   "cat": "sera-wall",
+   "side": "outdoor",
+   "img": [
+    "out-021"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A decorative 12W wall light designed for elegant entrance and fa\u00e7ade illumination. Its IP65 construction delivers warm 3000K light with a broad 120\u00b0 spread.",
+   "page": 21
+  },
+  {
+   "slug": "6w-axwl-4b-4x",
+   "name": "6W AXWL 4B / 4X",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-024"
+   ],
+   "specs": {
+    "watt": [
+     "6W"
+    ],
+    "beam": [
+     "8\u00b0",
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 24
+  },
+  {
+   "slug": "3w-thin-b-6w-thin-a",
+   "name": "3W Thin B / 6W Thin A",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-025"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "3W \u00d7 2",
+     "6W"
+    ],
+    "beam": [
+     "8\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 25
+  },
+  {
+   "slug": "6w-platio-6x1-12w-platio-6x2",
+   "name": "6W Platio 6X1 / 12W Platio 6X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-026"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "38\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 26
+  },
+  {
+   "slug": "6w-pearl-6x1-12w-pearl-6x2",
+   "name": "6W Pearl 6X1 / 12W Pearl 6X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-027"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "38\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 27
+  },
+  {
+   "slug": "5w-edge-5x1-10w-edge-5x2",
+   "name": "5W Edge 5X1 / 10W Edge 5X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-028"
+   ],
+   "specs": {
+    "watt": [
+     "5W",
+     "10W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 28
+  },
+  {
+   "slug": "3w-spark-a-6w-spark-b",
+   "name": "3W Spark A / 6W Spark B",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-029"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "3W \u00d7 2",
+     "6W"
+    ],
+    "beam": [
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 29
+  },
+  {
+   "slug": "6w-axwl-6x1-12w-axwl-6x2",
+   "name": "6W AXWL 6X1 / 12W AXWL 6X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-030"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "38\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 30
+  },
+  {
+   "slug": "10w-axwl-10x1-20w-axwl-10x2",
+   "name": "10W AXWL 10X1 / 20W AXWL 10X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-031"
+   ],
+   "specs": {
+    "watt": [
+     "10W",
+     "20W"
+    ],
+    "beam": [
+     "38\u00b0",
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 31
+  },
+  {
+   "slug": "12w-axwl-12x1-24w-axwl-12x2",
+   "name": "12W AXWL 12X1 / 24W AXWL 12X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-032"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "24W"
+    ],
+    "beam": [
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 32
+  },
+  {
+   "slug": "20w-axwl-20x1-40w-axwl-20x2",
+   "name": "20W AXWL 20X1 / 40W AXWL 20X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-033"
+   ],
+   "specs": {
+    "watt": [
+     "20W",
+     "40W"
+    ],
+    "beam": [
+     "38\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 33
+  },
+  {
+   "slug": "6w-calm-3x1-12w-calm-6x2",
+   "name": "6W Calm 3X1 / 12W Calm 6X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-034"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 34
+  },
+  {
+   "slug": "6w-axod",
+   "name": "6W AXOD",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-035"
+   ],
+   "specs": {
+    "watt": [
+     "6W"
+    ],
+    "beam": [
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A sculpted up-down wall luminaire with selectable beam effects for striking architectural lighting. Ideal for fa\u00e7ades, entrances, pathways, and boundary walls.",
+   "page": 35
+  },
+  {
+   "slug": "6w-ax-911-12w-dawn",
+   "name": "6W AX-911 / 12W Dawn",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-036"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 36
+  },
+  {
+   "slug": "6w-brick-6x1-12w-brick-6x2",
+   "name": "6W Brick 6X1 / 12W Brick 6X2",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-037"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "38\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 37
+  },
+  {
+   "slug": "12w-clean-12w-clove",
+   "name": "12W Clean / 12W Clove",
+   "cat": "varco-up-down",
+   "side": "outdoor",
+   "img": [
+    "out-038"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 38
+  },
+  {
+   "slug": "10w-altis",
+   "name": "10W Altis",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-041"
+   ],
+   "specs": {
+    "watt": [
+     "10W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A height-adjustable telescopic bollard light designed to create a soft, focused pool of illumination. Ideal for pathways, landscaped gardens, courtyards, and premium outdoor spaces.",
+   "page": 41
+  },
+  {
+   "slug": "20w-solis-bollards",
+   "name": "20W Solis Bollards",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-042"
+   ],
+   "specs": {
+    "watt": [
+     "20W"
+    ],
+    "beam": [
+     "90\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP66"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "Designed to guide movement with a calm, welcoming glow, Solis Bollards add rhythm and elegance to outdoor spaces. Perfect for creating a premium pathway experience with clean architectural character.",
+   "page": 42
+  },
+  {
+   "slug": "7w-radiance",
+   "name": "7W Radiance",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-043"
+   ],
+   "specs": {
+    "watt": [
+     "7W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A slim bollard light with a recessed vertical glow, designed for soft, glare-controlled pathway illumination. Ideal for gardens, walkways, entrances, and contemporary outdoor spaces.",
+   "page": 43
+  },
+  {
+   "slug": "12w-blow-a-b",
+   "name": "12W Blow A/B",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-044"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A contemporary bollard light with a soft downward glow, designed for comfortable and glare-controlled pathway lighting. Available in two sizes, ideal for gardens, walkways and landscaped outdoor spaces.",
+   "page": 44
+  },
+  {
+   "slug": "12w-meadow",
+   "name": "12W Meadow",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-045"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A minimalist bollard light with a soft downward glow, designed for comfortable and glare-controlled pathway illumination. Ideal for gardens, walkways, entrances, and premium landscaped outdoor spaces.",
+   "page": 45
+  },
+  {
+   "slug": "12w-mushroom",
+   "name": "12W Mushroom",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-046"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A slim mushroom-style bollard light with a soft downward glow for comfortable, glare-controlled illumination. Ideal for pathways, gardens, entrances, and premium landscaped outdoor spaces.",
+   "page": 46
+  },
+  {
+   "slug": "8w-mono",
+   "name": "8W Mono",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-047"
+   ],
+   "specs": {
+    "watt": [
+     "8W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A slim minimalist bollard light with a soft downward glow for comfortable, glare-controlled landscape illumination. Ideal for pathways, lawns, gardens, entrances, and modern outdoor spaces.",
+   "page": 47
+  },
+  {
+   "slug": "7w-spree-a-b",
+   "name": "7W Spree A&B",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-048"
+   ],
+   "specs": {
+    "watt": [
+     "7W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A modern open-frame bollard light with a soft, multi-directional glow.Available in two sizes for pathways,",
+   "page": 48
+  },
+  {
+   "slug": "12w-peak-a-b",
+   "name": "12W Peak A&B",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-049"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A slim open-frame bollard light that creates a decorative radial glow with a clean architectural finish. Available in two heights, ideal for pathways, gardens, and landscaped outdoor spaces.",
+   "page": 49
+  },
+  {
+   "slug": "faro-a-b-e-27",
+   "name": "Faro A&B E-27",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-050"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [
+     "360\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A decorative cage-style outdoor luminaire with a soft ambient glow and elegant sculptural form. Available in two sizes, ideal for patios, balconies, gardens, and premium outdoor spaces.",
+   "page": 50
+  },
+  {
+   "slug": "12w-flux-a-b",
+   "name": "12W Flux A&B",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-051"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A modern open-frame bollard light with a clean architectural form and soft directional glow. Available in two heights, ideal for pathways, lawns, gardens, and landscaped outdoor spaces.",
+   "page": 51
+  },
+  {
+   "slug": "sand-e-27",
+   "name": "Sand E-27",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-052"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [
+     "360\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A compact bollard light with a soft 360\u00b0 diffused glow for comfortable outdoor illumination. Available in three heights, ideal for pathways, gardens, entrances, and landscaped spaces.",
+   "page": 52
+  },
+  {
+   "slug": "clove-e-27",
+   "name": "Clove E-27",
+   "cat": "orto-bollards",
+   "side": "outdoor",
+   "img": [
+    "out-053"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [
+     "360\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A square bollard light with a soft 360\u00b0 diffused glow and a clean modern finish. Available in three heights, ideal for pathways, gardens, entrances, and landscaped spaces.",
+   "page": 53
+  },
+  {
+   "slug": "fit-spike",
+   "name": "Fit Spike",
+   "cat": "orto-spikes",
+   "side": "outdoor",
+   "img": [
+    "out-055"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "7W",
+     "14W"
+    ],
+    "beam": [
+     "24\u00b0"
+    ],
+    "ip": [
+     "IP65",
+     "IP67"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A compact spike light designed for precise 24\u00b0 accent illumination, ideal for highlighting trees, fa\u00e7ades, and landscape features. Available in 3W, 7W, and 14W options with IP67 connector support.",
+   "page": 55
+  },
+  {
+   "slug": "fit-spike-hood",
+   "name": "Fit Spike Hood",
+   "cat": "orto-spikes",
+   "side": "outdoor",
+   "img": [
+    "out-056"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "7W",
+     "14W"
+    ],
+    "beam": [
+     "30\u00b0"
+    ],
+    "ip": [
+     "IP65",
+     "IP67"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A hooded spike light designed for focused 30\u00b0 accent illumination with reduced glare. Ideal for highlighting trees, fa\u00e7ades, garden features, and landscape areas.",
+   "page": 56
+  },
+  {
+   "slug": "aosp",
+   "name": "AOSP",
+   "cat": "orto-spikes",
+   "side": "outdoor",
+   "img": [
+    "out-057"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "7W",
+     "12W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP67"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "A compact architectural spike light designed for focused 36\u00b0 accent illumination with a clean outdoor finish. Available in 3W, 7W, and 12W options, ideal for trees, gardens, pathways, and landscape highlighting.",
+   "page": 57
+  },
+  {
+   "slug": "aosp-hood",
+   "name": "AOSP Hood",
+   "cat": "orto-spikes",
+   "side": "outdoor",
+   "img": [
+    "out-058"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "7W",
+     "12W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP67"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "A hooded spike light for focused, glare-controlled accent lighting. Ideal for trees, gardens, fa\u00e7ades, and",
+   "page": 58
+  },
+  {
+   "slug": "zoro",
+   "name": "Zoro",
+   "cat": "orto-spikes",
+   "side": "outdoor",
+   "img": [
+    "out-059"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "7W",
+     "12W"
+    ],
+    "beam": [
+     "38\u00b0"
+    ],
+    "ip": [
+     "IP65",
+     "IP67"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A compact spike light with a focused 38\u00b0 beam for precise landscape accent lighting. Ideal for trees, gardens, fa\u00e7ades, and outdoor feature highlighting.",
+   "page": 59
+  },
+  {
+   "slug": "pillar-highlighter",
+   "name": "Pillar Highlighter",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-062"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "8\u00b0",
+     "15\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "Compact adjustable projector for focused illumination of pillars, fa\u00e7ades, and exterior architectural details. Available in 12W and 20W variants for controlled vertical accent lighting at different mounting heights.",
+   "page": 62
+  },
+  {
+   "slug": "4w-7w-spectra",
+   "name": "4W / 7W Spectra",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-063"
+   ],
+   "specs": {
+    "watt": [
+     "4W",
+     "7W"
+    ],
+    "beam": [
+     "5\u00b0",
+     "15\u00b0",
+     "25\u00b0",
+     "30\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A compact fa\u00e7ade projector with 5\u00b0, 15\u00b0 and 30\u00b0 beam options for precise architectural highlighting. Its adjustable IP65 design delivers focused 3000K illumination for outdoor applications.",
+   "page": 63
+  },
+  {
+   "slug": "24w-36w-spectra",
+   "name": "24W / 36W Spectra",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-064"
+   ],
+   "specs": {
+    "watt": [
+     "24W",
+     "36W"
+    ],
+    "beam": [
+     "5\u00b0",
+     "15\u00b0",
+     "30\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A high-output fa\u00e7ade projector with 5\u00b0, 15\u00b0 and 30\u00b0 beam options for powerful architectural highlighting. Its adjustable IP65 design delivers precise 3000K illumination across fa\u00e7ades, columns and elevations.",
+   "page": 64
+  },
+  {
+   "slug": "72w-100w-spectra",
+   "name": "72W / 100W Spectra",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-065"
+   ],
+   "specs": {
+    "watt": [
+     "72W",
+     "100W"
+    ],
+    "beam": [
+     "5\u00b0",
+     "30\u00b0",
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A powerful fa\u00e7ade projector with 5\u00b0, 30\u00b0 and 60\u00b0 beam options for large-scale architectural illumination. Its adjustable IP65 design delivers high-output 3000K lighting across fa\u00e7ades, columns and elevations.",
+   "page": 65
+  },
+  {
+   "slug": "3w-infinity-8w-fetch",
+   "name": "3W Infinity / 8W Fetch",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-066"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "8W"
+    ],
+    "beam": [
+     "5\u00b0",
+     "8\u00b0"
+    ],
+    "ip": [
+     "IP54",
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 66
+  },
+  {
+   "slug": "24v-zess-wallwasher",
+   "name": "24V Zess Wallwasher",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-067"
+   ],
+   "specs": {
+    "watt": [
+     "15W",
+     "30W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "24\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "Linear fa\u00e7ade wallwasher with evenly spaced optics for controlled, uniform illumination across exterior walls, textured surfaces, and architectural elevations.",
+   "page": 67
+  },
+  {
+   "slug": "24v-linkable-line",
+   "name": "24V Linkable Line",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-068"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP67"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A slim linkable linear luminaire designed to create continuous light accents across fa\u00e7ades, columns,",
+   "page": 68
+  },
+  {
+   "slug": "ip65-24v-neon",
+   "name": "IP65 24V Neon",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-069"
+   ],
+   "specs": {
+    "watt": [
+     "10W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65",
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "Flexible 24V top-bend neon with a smooth, continuous 3000K glow for fa\u00e7ades, curves, and architectural edges. IP68 construction ensures reliable outdoor performance.",
+   "page": 69
+  },
+  {
+   "slug": "ip68-24v-neon",
+   "name": "IP68 24V Neon",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-070"
+   ],
+   "specs": {
+    "watt": [
+     "10W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "Flexible 24V top-bend neon with a smooth, continuous 3000K glow for fa\u00e7ades, curves, and architectural edges. IP68 construction ensures reliable outdoor performance.",
+   "page": 70
+  },
+  {
+   "slug": "toren",
+   "name": "Toren",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-071"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "36\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A compact cylindrical surface-mounted luminaire designed for focused downward illumination with a clean, glare-controlled finish. Ideal for corridors, entrances, balconies, and modern architectural spaces.",
+   "page": 71
+  },
+  {
+   "slug": "water",
+   "name": "Water",
+   "cat": "acuta-facade",
+   "side": "outdoor",
+   "img": [
+    "out-072"
+   ],
+   "specs": {
+    "watt": [
+     "7W",
+     "12W",
+     "20W"
+    ],
+    "beam": [
+     "38\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A sleek cylindrical surface-mounted luminaire designed for focused, glare-controlled downward lighting with a clean architectural finish. Ideal for corridors, balconies, entrances, and covered outdoor spaces.",
+   "page": 72
+  },
+  {
+   "slug": "13w-stride-surface",
+   "name": "13W Stride (Surface)",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-075"
+   ],
+   "specs": {
+    "watt": [
+     "13W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A surface-mounted step light with a ribbed architectural body, designed for soft downward illumination. Ideal for stairs, retaining walls, pathways, and outdoor landscape edges.",
+   "page": 75
+  },
+  {
+   "slug": "3-5w-glint",
+   "name": "3.5W Glint",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-076"
+   ],
+   "specs": {
+    "watt": [
+     "3.5W"
+    ],
+    "beam": [
+     "8\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A compact round step light with a focused 8\u00b0 beam, designed to create clean linear light accents. Ideal for staircases, pathways, retaining walls, and modern outdoor edges.",
+   "page": 76
+  },
+  {
+   "slug": "guide",
+   "name": "Guide",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-077"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "6W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP54"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A compact round step light with soft downward illumination for safe, glare-controlled pathway lighting. Ideal for stairs, retaining walls, walkways, and modern outdoor landscapes.",
+   "page": 77
+  },
+  {
+   "slug": "trace",
+   "name": "Trace",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-078"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "6W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP54"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A rectangular step light with soft downward illumination for safe, glare-controlled outdoor lighting. Ideal for stairs, pathways, retaining walls, and modern architectural landscapes.",
+   "page": 78
+  },
+  {
+   "slug": "6w-trek",
+   "name": "6W Trek",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-079"
+   ],
+   "specs": {
+    "watt": [
+     "6W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A slim rectangular step light with soft downward illumination for safe, glare-controlled outdoor lighting. Ideal for pathways, boundary walls, landscape edges, and modern outdoor spaces.",
+   "page": 79
+  },
+  {
+   "slug": "3w-grace-6w-axftsf-01",
+   "name": "3W Grace / 6W AXFTSF 01",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-080"
+   ],
+   "specs": {
+    "watt": [
+     "3W",
+     "6W"
+    ],
+    "beam": [
+     "36\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 80
+  },
+  {
+   "slug": "axftsf-02",
+   "name": "AXFTSF 02",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-081"
+   ],
+   "specs": {
+    "watt": [
+     "8W",
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A linear rectangular step light with a soft wide downward glow for safe and glare-controlled illumination. Ideal for stairs, boundary walls, pathways, and modern outdoor landscape edges.",
+   "page": 81
+  },
+  {
+   "slug": "6w-axftsf-03-04",
+   "name": "6W AXFTSF 03 / 04",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-082"
+   ],
+   "specs": {
+    "watt": [
+     "6W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 82
+  },
+  {
+   "slug": "13w-stride-concealed",
+   "name": "13W Stride (Concealed)",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-084"
+   ],
+   "specs": {
+    "watt": [
+     "13W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "Anti-glare"
+    ]
+   },
+   "desc": "A concealed step light with a ribbed anti-glare body, designed for soft downward illumination. Ideal for decks, stairs, platforms, pathways, and modern outdoor edges.",
+   "page": 84
+  },
+  {
+   "slug": "12w-forge",
+   "name": "12W Forge",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-085"
+   ],
+   "specs": {
+    "watt": [
+     "12W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A recessed rectangular step light with soft downward illumination for safe, glare-controlled lighting. Ideal for staircases, retaining walls, pathways, and modern outdoor edges.",
+   "page": 85
+  },
+  {
+   "slug": "3w-axftcc-01-02",
+   "name": "3W AXFTCC 01 / 02",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-086"
+   ],
+   "specs": {
+    "watt": [
+     "3W"
+    ],
+    "beam": [
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 86
+  },
+  {
+   "slug": "6w-axftcc-03",
+   "name": "6W AXFTCC 03",
+   "cat": "passo-footlights",
+   "side": "outdoor",
+   "img": [
+    "out-087"
+   ],
+   "specs": {
+    "watt": [
+     "6W"
+    ],
+    "beam": [
+     "45\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 87
+  },
+  {
+   "slug": "torque",
+   "name": "Torque",
+   "cat": "passo-inground",
+   "side": "outdoor",
+   "img": [
+    "out-089"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "9W"
+    ],
+    "beam": [
+     "8\u00b0",
+     "15\u00b0",
+     "24\u00b0"
+    ],
+    "ip": [
+     "IP67"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "Highlights fa\u00e7ades, textures, and landscape features with a sharp premium uplight effect. A clean recessed design that adds depth and drama to outdoor spaces.",
+   "page": 89
+  },
+  {
+   "slug": "2w-inground-1-way-2-way",
+   "name": "2W Inground (1 Way / 2 Way)",
+   "cat": "passo-inground",
+   "side": "outdoor",
+   "img": [
+    "out-090"
+   ],
+   "specs": {
+    "watt": [
+     "2W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 90
+  },
+  {
+   "slug": "3w-inground-4-way",
+   "name": "3W Inground (4 Way)",
+   "cat": "passo-inground",
+   "side": "outdoor",
+   "img": [
+    "out-091"
+   ],
+   "specs": {
+    "watt": [
+     "3W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 91
+  },
+  {
+   "slug": "4w-big-ig-6w-big-ig",
+   "name": "4W Big IG / 6W Big IG",
+   "cat": "passo-inground",
+   "side": "outdoor",
+   "img": [
+    "out-092"
+   ],
+   "specs": {
+    "watt": [
+     "4W",
+     "6W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 92
+  },
+  {
+   "slug": "6w-12w-ax-sp-sf-12v",
+   "name": "6W / 12W AX SP SF (12V)",
+   "cat": "acqua-pool",
+   "side": "outdoor",
+   "img": [
+    "out-095"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "12W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "30\u00b0",
+     "45\u00b0",
+     "60\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 95
+  },
+  {
+   "slug": "12w-18w-24w-ax-sp-sf-12v",
+   "name": "12W / 18W / 24W AX SP SF (12V)",
+   "cat": "acqua-pool",
+   "side": "outdoor",
+   "img": [
+    "out-096"
+   ],
+   "specs": {
+    "watt": [
+     "18W",
+     "24W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "30\u00b0",
+     "45\u00b0",
+     "60\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 96
+  },
+  {
+   "slug": "ax-abs-sp1-sp2-12v",
+   "name": "AX ABS SP1 / SP2 (12V)",
+   "cat": "acqua-pool",
+   "side": "outdoor",
+   "img": [
+    "out-097"
+   ],
+   "specs": {
+    "watt": [
+     "15W",
+     "36W"
+    ],
+    "beam": [
+     "60\u00b0"
+    ],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 97
+  },
+  {
+   "slug": "18w-nozzel-pass-fl-6w-ax-sp-cc-12v",
+   "name": "18W Nozzel Pass FL / 6W AX SP CC (12V)",
+   "cat": "acqua-pool",
+   "side": "outdoor",
+   "img": [
+    "out-098"
+   ],
+   "specs": {
+    "watt": [
+     "6W",
+     "18W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "30\u00b0",
+     "45\u00b0",
+     "60\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 98
+  },
+  {
+   "slug": "12w-18w-ax-sp-cc-12v",
+   "name": "12W / 18W AX SP CC (12V)",
+   "cat": "acqua-pool",
+   "side": "outdoor",
+   "img": [
+    "out-099"
+   ],
+   "specs": {
+    "watt": [
+     "12W",
+     "18W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "30\u00b0",
+     "45\u00b0",
+     "60\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 99
+  },
+  {
+   "slug": "24w-ax-sp-cc-12v",
+   "name": "24W AX SP CC (12V)",
+   "cat": "acqua-pool",
+   "side": "outdoor",
+   "img": [
+    "out-100"
+   ],
+   "specs": {
+    "watt": [
+     "24W"
+    ],
+    "beam": [
+     "15\u00b0",
+     "30\u00b0",
+     "45\u00b0",
+     "60\u00b0",
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 100
+  },
+  {
+   "slug": "terra",
+   "name": "Terra",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-103"
+   ],
+   "specs": {
+    "watt": [
+     "15W",
+     "30W",
+     "45W",
+     "60W"
+    ],
+    "beam": [
+     "360\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "A slim vertical bollard light with a soft diffused glow, designed for clean 360\u00b0 ambient illumination. Available in multiple heights, ideal for pathways, gardens, entrances, and landscape edges.",
+   "page": 103
+  },
+  {
+   "slug": "vortex-zenith",
+   "name": "Vortex / Zenith",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-104"
+   ],
+   "specs": {
+    "watt": [
+     "35W",
+     "50W",
+     "70W",
+     "100W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 104
+  },
+  {
+   "slug": "l-shape-single-double-arm-pole",
+   "name": "L-Shape Single & Double Arm Pole",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-105"
+   ],
+   "specs": {
+    "watt": [
+     "45W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 105
+  },
+  {
+   "slug": "zig-zag-single-double-arm-pole",
+   "name": "Zig-Zag Single & Double Arm Pole",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-106"
+   ],
+   "specs": {
+    "watt": [
+     "45W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 106
+  },
+  {
+   "slug": "nova-orbit",
+   "name": "Nova / Orbit",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-107"
+   ],
+   "specs": {
+    "watt": [
+     "35W",
+     "50W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 107
+  },
+  {
+   "slug": "crest",
+   "name": "Crest",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-108"
+   ],
+   "specs": {
+    "watt": [
+     "10W",
+     "50W",
+     "100W"
+    ],
+    "beam": [],
+    "ip": [
+     "IP68"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": [
+     "RGB"
+    ]
+   },
+   "desc": "",
+   "page": 108
+  },
+  {
+   "slug": "pole",
+   "name": "Pole",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-109"
+   ],
+   "specs": {
+    "watt": [],
+    "beam": [],
+    "ip": [],
+    "cct": [],
+    "features": []
+   },
+   "desc": "Outdoor pole system for street and area lighting, available in round and step-pole options. Ideal for pathways, landscapes, parking areas, and outdoor projects.",
+   "page": 109
+  },
+  {
+   "slug": "50w-mars-highbay-flash-highbay",
+   "name": "50W Mars Highbay / Flash Highbay",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-110"
+   ],
+   "specs": {
+    "watt": [
+     "50W",
+     "100W",
+     "150W",
+     "200W"
+    ],
+    "beam": [
+     "90\u00b0"
+    ],
+    "ip": [
+     "IP20"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 110
+  },
+  {
+   "slug": "shine-highbay-lensy-street-light",
+   "name": "Shine Highbay / Lensy Street Light",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-111"
+   ],
+   "specs": {
+    "watt": [
+     "24W",
+     "36W",
+     "50W",
+     "100W",
+     "150W",
+     "200W",
+     "250W",
+     "300W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP20",
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 111
+  },
+  {
+   "slug": "hybro-eco-street-light",
+   "name": "Hybro / Eco Street Light",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-112"
+   ],
+   "specs": {
+    "watt": [
+     "50W",
+     "60W",
+     "100W",
+     "120W",
+     "150W",
+     "200W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 112
+  },
+  {
+   "slug": "nexa-street-light-gem-flood-light",
+   "name": "Nexa Street Light / Gem Flood Light",
+   "cat": "urbe-street",
+   "side": "outdoor",
+   "img": [
+    "out-113"
+   ],
+   "specs": {
+    "watt": [
+     "10W",
+     "20W",
+     "24W",
+     "30W",
+     "36W",
+     "50W",
+     "100W",
+     "150W",
+     "200W",
+     "250W",
+     "300W",
+     "400W"
+    ],
+    "beam": [
+     "120\u00b0"
+    ],
+    "ip": [
+     "IP65"
+    ],
+    "cct": [
+     "3000K"
+    ],
+    "features": []
+   },
+   "desc": "",
+   "page": 113
+  }
+ ]
+}
